@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 /**
- * Created by The Revenant on 5/23/2017.1weqweadadasdss
+ * Created by The Revenant on 5/23/2017.1
  */
 
 @Controller
